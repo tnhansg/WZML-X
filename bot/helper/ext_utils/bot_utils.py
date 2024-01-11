@@ -738,7 +738,7 @@ async def set_commands(client):
             ),
             BotCommand(
                 BotCommands.HelpCommand,
-                'Get detailed help about the WZML-X Bot',
+                'Get detailed help about the Thien Nhan Bot',
             ),
             BotCommand(
                 BotCommands.UserSetCommand[0],
